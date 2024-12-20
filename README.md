@@ -1,6 +1,6 @@
 # HDI Index (2021) and GDP of World (2018-2020)
 
-This repository contains two global data visualizations derived from publicly available datasets:
+Analysis through visualizations using JavaScript, HTML, and the d3.js library to display the data we found based on the the HDI Index and GDP across each country around the world.
 
 Figure 1: World HDI Map (2021)
 A choropleth world map colored by the Human Development Index (HDI) for the year 2021. Countries are shaded based on their HDI category—Low, Medium, High, or Very High—offering a quick snapshot of global human development levels.
