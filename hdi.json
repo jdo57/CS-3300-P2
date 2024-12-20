@@ -1,0 +1,1757 @@
+[
+  {
+    "ISO3": "AFG",
+    "Country": "Afghanistan",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 180,
+    "Human Development Index (2021)": 0.478,
+    "Life Expectancy at Birth (2021)": 61.9824,
+    "Expected Years of Schooling (2021)": 10.26384398
+  },
+  {
+    "ISO3": "AGO",
+    "Country": "Angola",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 148,
+    "Human Development Index (2021)": 0.586,
+    "Life Expectancy at Birth (2021)": 61.6434,
+    "Expected Years of Schooling (2021)": 12.1721
+  },
+  {
+    "ISO3": "ALB",
+    "Country": "Albania",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 67,
+    "Human Development Index (2021)": 0.796,
+    "Life Expectancy at Birth (2021)": 76.4626,
+    "Expected Years of Schooling (2021)": 14.44799995
+  },
+  {
+    "ISO3": "AND",
+    "Country": "Andorra",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 40,
+    "Human Development Index (2021)": 0.858,
+    "Life Expectancy at Birth (2021)": 80.3684,
+    "Expected Years of Schooling (2021)": 13.30023874
+  },
+  {
+    "ISO3": "ARE",
+    "Country": "United Arab Emirates",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 26,
+    "Human Development Index (2021)": 0.911,
+    "Life Expectancy at Birth (2021)": 78.7104,
+    "Expected Years of Schooling (2021)": 15.71769047
+  },
+  {
+    "ISO3": "ARG",
+    "Country": "Argentina",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 47,
+    "Human Development Index (2021)": 0.842,
+    "Life Expectancy at Birth (2021)": 75.3899,
+    "Expected Years of Schooling (2021)": 17.8748703
+  },
+  {
+    "ISO3": "ARM",
+    "Country": "Armenia",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 85,
+    "Human Development Index (2021)": 0.759,
+    "Life Expectancy at Birth (2021)": 72.0431,
+    "Expected Years of Schooling (2021)": 13.11676025
+  },
+  {
+    "ISO3": "ATG",
+    "Country": "Antigua and Barbuda",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 71,
+    "Human Development Index (2021)": 0.788,
+    "Life Expectancy at Birth (2021)": 78.4968,
+    "Expected Years of Schooling (2021)": 14.18462641
+  },
+  {
+    "ISO3": "AUS",
+    "Country": "Australia",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 5,
+    "Human Development Index (2021)": 0.951,
+    "Life Expectancy at Birth (2021)": 84.5265,
+    "Expected Years of Schooling (2021)": 21.05459023
+  },
+  {
+    "ISO3": "AUT",
+    "Country": "Austria",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 25,
+    "Human Development Index (2021)": 0.916,
+    "Life Expectancy at Birth (2021)": 81.5797,
+    "Expected Years of Schooling (2021)": 16.00795937
+  },
+  {
+    "ISO3": "AZE",
+    "Country": "Azerbaijan",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 91,
+    "Human Development Index (2021)": 0.745,
+    "Life Expectancy at Birth (2021)": 69.3658,
+    "Expected Years of Schooling (2021)": 13.49689007
+  },
+  {
+    "ISO3": "BDI",
+    "Country": "Burundi",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 187,
+    "Human Development Index (2021)": 0.426,
+    "Life Expectancy at Birth (2021)": 61.6627,
+    "Expected Years of Schooling (2021)": 10.72272189
+  },
+  {
+    "ISO3": "BEL",
+    "Country": "Belgium",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 13,
+    "Human Development Index (2021)": 0.937,
+    "Life Expectancy at Birth (2021)": 81.8787,
+    "Expected Years of Schooling (2021)": 19.60421944
+  },
+  {
+    "ISO3": "BEN",
+    "Country": "Benin",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 166,
+    "Human Development Index (2021)": 0.525,
+    "Life Expectancy at Birth (2021)": 59.821,
+    "Expected Years of Schooling (2021)": 10.76667976
+  },
+  {
+    "ISO3": "BFA",
+    "Country": "Burkina Faso",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 184,
+    "Human Development Index (2021)": 0.449,
+    "Life Expectancy at Birth (2021)": 59.2696,
+    "Expected Years of Schooling (2021)": 9.142100334
+  },
+  {
+    "ISO3": "BGD",
+    "Country": "Bangladesh",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 129,
+    "Human Development Index (2021)": 0.661,
+    "Life Expectancy at Birth (2021)": 72.3811,
+    "Expected Years of Schooling (2021)": 12.44198036
+  },
+  {
+    "ISO3": "BGR",
+    "Country": "Bulgaria",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 68,
+    "Human Development Index (2021)": 0.795,
+    "Life Expectancy at Birth (2021)": 71.798,
+    "Expected Years of Schooling (2021)": 13.89729023
+  },
+  {
+    "ISO3": "BHR",
+    "Country": "Bahrain",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 35,
+    "Human Development Index (2021)": 0.875,
+    "Life Expectancy at Birth (2021)": 78.7605,
+    "Expected Years of Schooling (2021)": 16.29755974
+  },
+  {
+    "ISO3": "BHS",
+    "Country": "Bahamas",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 55,
+    "Human Development Index (2021)": 0.812,
+    "Life Expectancy at Birth (2021)": 71.5983,
+    "Expected Years of Schooling (2021)": 12.89945
+  },
+  {
+    "ISO3": "BIH",
+    "Country": "Bosnia and Herzegovina",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 74,
+    "Human Development Index (2021)": 0.78,
+    "Life Expectancy at Birth (2021)": 75.3003,
+    "Expected Years of Schooling (2021)": 13.8
+  },
+  {
+    "ISO3": "BLR",
+    "Country": "Belarus",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 60,
+    "Human Development Index (2021)": 0.808,
+    "Life Expectancy at Birth (2021)": 72.438,
+    "Expected Years of Schooling (2021)": 15.16996956
+  },
+  {
+    "ISO3": "BLZ",
+    "Country": "Belize",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 123,
+    "Human Development Index (2021)": 0.683,
+    "Life Expectancy at Birth (2021)": 70.4697,
+    "Expected Years of Schooling (2021)": 12.99168968
+  },
+  {
+    "ISO3": "BOL",
+    "Country": "Bolivia",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 118,
+    "Human Development Index (2021)": 0.692,
+    "Life Expectancy at Birth (2021)": 63.6304,
+    "Expected Years of Schooling (2021)": 14.94697094
+  },
+  {
+    "ISO3": "BRA",
+    "Country": "Brazil",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 87,
+    "Human Development Index (2021)": 0.754,
+    "Life Expectancy at Birth (2021)": 72.7504,
+    "Expected Years of Schooling (2021)": 15.59906006
+  },
+  {
+    "ISO3": "BRB",
+    "Country": "Barbados",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 70,
+    "Human Development Index (2021)": 0.79,
+    "Life Expectancy at Birth (2021)": 77.5714,
+    "Expected Years of Schooling (2021)": 15.71338458
+  },
+  {
+    "ISO3": "BRN",
+    "Country": "Brunei",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 51,
+    "Human Development Index (2021)": 0.829,
+    "Life Expectancy at Birth (2021)": 74.6424,
+    "Expected Years of Schooling (2021)": 13.95178032
+  },
+  {
+    "ISO3": "BTN",
+    "Country": "Bhutan",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 127,
+    "Human Development Index (2021)": 0.666,
+    "Life Expectancy at Birth (2021)": 71.815,
+    "Expected Years of Schooling (2021)": 13.22500478
+  },
+  {
+    "ISO3": "BWA",
+    "Country": "Botswana",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 117,
+    "Human Development Index (2021)": 0.693,
+    "Life Expectancy at Birth (2021)": 61.1409,
+    "Expected Years of Schooling (2021)": 12.26513765
+  },
+  {
+    "ISO3": "CAF",
+    "Country": "Central African Republic",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 188,
+    "Human Development Index (2021)": 0.404,
+    "Life Expectancy at Birth (2021)": 53.8947,
+    "Expected Years of Schooling (2021)": 8.040171714
+  },
+  {
+    "ISO3": "CAN",
+    "Country": "Canada",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 15,
+    "Human Development Index (2021)": 0.936,
+    "Life Expectancy at Birth (2021)": 82.6565,
+    "Expected Years of Schooling (2021)": 16.39625931
+  },
+  {
+    "ISO3": "CHE",
+    "Country": "Switzerland",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 1,
+    "Human Development Index (2021)": 0.962,
+    "Life Expectancy at Birth (2021)": 83.9872,
+    "Expected Years of Schooling (2021)": 16.50029945
+  },
+  {
+    "ISO3": "CHL",
+    "Country": "Chile",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 42,
+    "Human Development Index (2021)": 0.855,
+    "Life Expectancy at Birth (2021)": 78.9435,
+    "Expected Years of Schooling (2021)": 16.73130035
+  },
+  {
+    "ISO3": "CHN",
+    "Country": "China",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 79,
+    "Human Development Index (2021)": 0.768,
+    "Life Expectancy at Birth (2021)": 78.2107,
+    "Expected Years of Schooling (2021)": 14.2361149
+  },
+  {
+    "ISO3": "CIV",
+    "Country": "Ivory Coast",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 159,
+    "Human Development Index (2021)": 0.55,
+    "Life Expectancy at Birth (2021)": 58.5983,
+    "Expected Years of Schooling (2021)": 10.67558002
+  },
+  {
+    "ISO3": "CMR",
+    "Country": "Cameroon",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 151,
+    "Human Development Index (2021)": 0.576,
+    "Life Expectancy at Birth (2021)": 60.3334,
+    "Expected Years of Schooling (2021)": 13.10859922
+  },
+  {
+    "ISO3": "COD",
+    "Country": "Democratic Republic of the Congo",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 179,
+    "Human Development Index (2021)": 0.479,
+    "Life Expectancy at Birth (2021)": 59.193,
+    "Expected Years of Schooling (2021)": 9.817864451
+  },
+  {
+    "ISO3": "COG",
+    "Country": "Republic of the Congo",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 153,
+    "Human Development Index (2021)": 0.571,
+    "Life Expectancy at Birth (2021)": 63.5187,
+    "Expected Years of Schooling (2021)": 12.33081527
+  },
+  {
+    "ISO3": "COL",
+    "Country": "Colombia",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 88,
+    "Human Development Index (2021)": 0.752,
+    "Life Expectancy at Birth (2021)": 72.8296,
+    "Expected Years of Schooling (2021)": 14.44274998
+  },
+  {
+    "ISO3": "COM",
+    "Country": "Comoros",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 156,
+    "Human Development Index (2021)": 0.558,
+    "Life Expectancy at Birth (2021)": 63.4174,
+    "Expected Years of Schooling (2021)": 11.92432393
+  },
+  {
+    "ISO3": "CPV",
+    "Country": "Cabo Verde",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 128,
+    "Human Development Index (2021)": 0.662,
+    "Life Expectancy at Birth (2021)": 74.0518,
+    "Expected Years of Schooling (2021)": 12.55461444
+  },
+  {
+    "ISO3": "CRI",
+    "Country": "Costa Rica",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 58,
+    "Human Development Index (2021)": 0.809,
+    "Life Expectancy at Birth (2021)": 77.0232,
+    "Expected Years of Schooling (2021)": 16.54577065
+  },
+  {
+    "ISO3": "CUB",
+    "Country": "Cuba",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 83,
+    "Human Development Index (2021)": 0.764,
+    "Life Expectancy at Birth (2021)": 73.6829,
+    "Expected Years of Schooling (2021)": 14.44305992
+  },
+  {
+    "ISO3": "CYP",
+    "Country": "Cyprus",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 29,
+    "Human Development Index (2021)": 0.896,
+    "Life Expectancy at Birth (2021)": 81.2033,
+    "Expected Years of Schooling (2021)": 15.64826965
+  },
+  {
+    "ISO3": "CZE",
+    "Country": "Czechia",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 32,
+    "Human Development Index (2021)": 0.889,
+    "Life Expectancy at Birth (2021)": 77.7283,
+    "Expected Years of Schooling (2021)": 16.21968079
+  },
+  {
+    "ISO3": "DEU",
+    "Country": "Germany",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 9,
+    "Human Development Index (2021)": 0.942,
+    "Life Expectancy at Birth (2021)": 80.6301,
+    "Expected Years of Schooling (2021)": 17.01013947
+  },
+  {
+    "ISO3": "DJI",
+    "Country": "Djibouti",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 171,
+    "Human Development Index (2021)": 0.509,
+    "Life Expectancy at Birth (2021)": 62.3049,
+    "Expected Years of Schooling (2021)": 7.43298
+  },
+  {
+    "ISO3": "DMA",
+    "Country": "Dominica",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 102,
+    "Human Development Index (2021)": 0.72,
+    "Life Expectancy at Birth (2021)": 72.814,
+    "Expected Years of Schooling (2021)": 13.3191862
+  },
+  {
+    "ISO3": "DNK",
+    "Country": "Denmark",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 6,
+    "Human Development Index (2021)": 0.948,
+    "Life Expectancy at Birth (2021)": 81.3753,
+    "Expected Years of Schooling (2021)": 18.71479988
+  },
+  {
+    "ISO3": "DOM",
+    "Country": "Dominican Republic",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 80,
+    "Human Development Index (2021)": 0.767,
+    "Life Expectancy at Birth (2021)": 72.6146,
+    "Expected Years of Schooling (2021)": 14.46655802
+  },
+  {
+    "ISO3": "DZA",
+    "Country": "Algeria",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 91,
+    "Human Development Index (2021)": 0.745,
+    "Life Expectancy at Birth (2021)": 76.3767,
+    "Expected Years of Schooling (2021)": 14.62689602
+  },
+  {
+    "ISO3": "ECU",
+    "Country": "Ecuador",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 95,
+    "Human Development Index (2021)": 0.74,
+    "Life Expectancy at Birth (2021)": 73.67,
+    "Expected Years of Schooling (2021)": 14.62423038
+  },
+  {
+    "ISO3": "EGY",
+    "Country": "Egypt",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 97,
+    "Human Development Index (2021)": 0.731,
+    "Life Expectancy at Birth (2021)": 70.2207,
+    "Expected Years of Schooling (2021)": 13.78649972
+  },
+  {
+    "ISO3": "ERI",
+    "Country": "Eritrea",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 176,
+    "Human Development Index (2021)": 0.492,
+    "Life Expectancy at Birth (2021)": 66.5358,
+    "Expected Years of Schooling (2021)": 8.064524628
+  },
+  {
+    "ISO3": "ESP",
+    "Country": "Spain",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 27,
+    "Human Development Index (2021)": 0.905,
+    "Life Expectancy at Birth (2021)": 83.01,
+    "Expected Years of Schooling (2021)": 17.91690063
+  },
+  {
+    "ISO3": "EST",
+    "Country": "Estonia",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 31,
+    "Human Development Index (2021)": 0.89,
+    "Life Expectancy at Birth (2021)": 77.1436,
+    "Expected Years of Schooling (2021)": 15.92895985
+  },
+  {
+    "ISO3": "ETH",
+    "Country": "Ethiopia",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 175,
+    "Human Development Index (2021)": 0.498,
+    "Life Expectancy at Birth (2021)": 64.9748,
+    "Expected Years of Schooling (2021)": 9.651071421
+  },
+  {
+    "ISO3": "FIN",
+    "Country": "Finland",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 11,
+    "Human Development Index (2021)": 0.94,
+    "Life Expectancy at Birth (2021)": 82.0381,
+    "Expected Years of Schooling (2021)": 19.05192947
+  },
+  {
+    "ISO3": "FJI",
+    "Country": "Fiji",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 99,
+    "Human Development Index (2021)": 0.73,
+    "Life Expectancy at Birth (2021)": 67.114,
+    "Expected Years of Schooling (2021)": 14.73679
+  },
+  {
+    "ISO3": "FRA",
+    "Country": "France",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 28,
+    "Human Development Index (2021)": 0.903,
+    "Life Expectancy at Birth (2021)": 82.4988,
+    "Expected Years of Schooling (2021)": 15.81206989
+  },
+  {
+    "ISO3": "FSM",
+    "Country": "Micronesia",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 134,
+    "Human Development Index (2021)": 0.628,
+    "Life Expectancy at Birth (2021)": 70.71,
+    "Expected Years of Schooling (2021)": 11.54947988
+  },
+  {
+    "ISO3": "GAB",
+    "Country": "Gabon",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 112,
+    "Human Development Index (2021)": 0.706,
+    "Life Expectancy at Birth (2021)": 65.821,
+    "Expected Years of Schooling (2021)": 12.97731
+  },
+  {
+    "ISO3": "GBR",
+    "Country": "United Kingdom",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 18,
+    "Human Development Index (2021)": 0.929,
+    "Life Expectancy at Birth (2021)": 80.7422,
+    "Expected Years of Schooling (2021)": 17.30971909
+  },
+  {
+    "ISO3": "GEO",
+    "Country": "Georgia",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 63,
+    "Human Development Index (2021)": 0.802,
+    "Life Expectancy at Birth (2021)": 71.694,
+    "Expected Years of Schooling (2021)": 15.56851959
+  },
+  {
+    "ISO3": "GHA",
+    "Country": "Ghana",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 133,
+    "Human Development Index (2021)": 0.632,
+    "Life Expectancy at Birth (2021)": 63.7954,
+    "Expected Years of Schooling (2021)": 12.04778004
+  },
+  {
+    "ISO3": "GIN",
+    "Country": "Guinea",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 182,
+    "Human Development Index (2021)": 0.465,
+    "Life Expectancy at Birth (2021)": 58.8922,
+    "Expected Years of Schooling (2021)": 9.805297465
+  },
+  {
+    "ISO3": "GMB",
+    "Country": "Gambia",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 174,
+    "Human Development Index (2021)": 0.5,
+    "Life Expectancy at Birth (2021)": 62.083,
+    "Expected Years of Schooling (2021)": 9.418626299
+  },
+  {
+    "ISO3": "GNB",
+    "Country": "Guinea-Bissau",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 177,
+    "Human Development Index (2021)": 0.483,
+    "Life Expectancy at Birth (2021)": 59.6523,
+    "Expected Years of Schooling (2021)": 10.61306278
+  },
+  {
+    "ISO3": "GNQ",
+    "Country": "Equatorial Guinea",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 145,
+    "Human Development Index (2021)": 0.596,
+    "Life Expectancy at Birth (2021)": 60.5943,
+    "Expected Years of Schooling (2021)": 9.73494
+  },
+  {
+    "ISO3": "GRC",
+    "Country": "Greece",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 33,
+    "Human Development Index (2021)": 0.887,
+    "Life Expectancy at Birth (2021)": 80.1106,
+    "Expected Years of Schooling (2021)": 20.02878952
+  },
+  {
+    "ISO3": "GRD",
+    "Country": "Grenada",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 68,
+    "Human Development Index (2021)": 0.795,
+    "Life Expectancy at Birth (2021)": 74.9362,
+    "Expected Years of Schooling (2021)": 18.66202035
+  },
+  {
+    "ISO3": "GTM",
+    "Country": "Guatemala",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 135,
+    "Human Development Index (2021)": 0.627,
+    "Life Expectancy at Birth (2021)": 69.2368,
+    "Expected Years of Schooling (2021)": 10.56245041
+  },
+  {
+    "ISO3": "GUY",
+    "Country": "Guyana",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 108,
+    "Human Development Index (2021)": 0.714,
+    "Life Expectancy at Birth (2021)": 65.6734,
+    "Expected Years of Schooling (2021)": 12.50272216
+  },
+  {
+    "ISO3": "HKG",
+    "Country": "Hong Kong",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 4,
+    "Human Development Index (2021)": 0.952,
+    "Life Expectancy at Birth (2021)": 85.4734,
+    "Expected Years of Schooling (2021)": 17.27816963
+  },
+  {
+    "ISO3": "HND",
+    "Country": "Honduras",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 137,
+    "Human Development Index (2021)": 0.621,
+    "Life Expectancy at Birth (2021)": 70.1229,
+    "Expected Years of Schooling (2021)": 10.13281417
+  },
+  {
+    "ISO3": "HRV",
+    "Country": "Croatia",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 40,
+    "Human Development Index (2021)": 0.858,
+    "Life Expectancy at Birth (2021)": 77.5804,
+    "Expected Years of Schooling (2021)": 15.11209965
+  },
+  {
+    "ISO3": "HTI",
+    "Country": "Haiti",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 163,
+    "Human Development Index (2021)": 0.535,
+    "Life Expectancy at Birth (2021)": 63.1924,
+    "Expected Years of Schooling (2021)": 9.7
+  },
+  {
+    "ISO3": "HUN",
+    "Country": "Hungary",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 46,
+    "Human Development Index (2021)": 0.846,
+    "Life Expectancy at Birth (2021)": 74.5301,
+    "Expected Years of Schooling (2021)": 15.0336281
+  },
+  {
+    "ISO3": "IDN",
+    "Country": "Indonesia",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 114,
+    "Human Development Index (2021)": 0.705,
+    "Life Expectancy at Birth (2021)": 67.5703,
+    "Expected Years of Schooling (2021)": 13.74889386
+  },
+  {
+    "ISO3": "IND",
+    "Country": "India",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 132,
+    "Human Development Index (2021)": 0.633,
+    "Life Expectancy at Birth (2021)": 67.2398,
+    "Expected Years of Schooling (2021)": 11.87462044
+  },
+  {
+    "ISO3": "IRL",
+    "Country": "Ireland",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 8,
+    "Human Development Index (2021)": 0.945,
+    "Life Expectancy at Birth (2021)": 81.9976,
+    "Expected Years of Schooling (2021)": 18.94522095
+  },
+  {
+    "ISO3": "IRN",
+    "Country": "Iran",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 76,
+    "Human Development Index (2021)": 0.774,
+    "Life Expectancy at Birth (2021)": 73.8749,
+    "Expected Years of Schooling (2021)": 14.61524963
+  },
+  {
+    "ISO3": "IRQ",
+    "Country": "Iraq",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 121,
+    "Human Development Index (2021)": 0.686,
+    "Life Expectancy at Birth (2021)": 70.3779,
+    "Expected Years of Schooling (2021)": 12.08747317
+  },
+  {
+    "ISO3": "ISL",
+    "Country": "Iceland",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 3,
+    "Human Development Index (2021)": 0.959,
+    "Life Expectancy at Birth (2021)": 82.6782,
+    "Expected Years of Schooling (2021)": 19.16305923
+  },
+  {
+    "ISO3": "ISR",
+    "Country": "Israel",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 22,
+    "Human Development Index (2021)": 0.919,
+    "Life Expectancy at Birth (2021)": 82.255,
+    "Expected Years of Schooling (2021)": 16.05088997
+  },
+  {
+    "ISO3": "ITA",
+    "Country": "Italy",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 30,
+    "Human Development Index (2021)": 0.895,
+    "Life Expectancy at Birth (2021)": 82.8502,
+    "Expected Years of Schooling (2021)": 16.22678947
+  },
+  {
+    "ISO3": "JAM",
+    "Country": "Jamaica",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 110,
+    "Human Development Index (2021)": 0.709,
+    "Life Expectancy at Birth (2021)": 70.5003,
+    "Expected Years of Schooling (2021)": 13.40492042
+  },
+  {
+    "ISO3": "JOR",
+    "Country": "Jordan",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 102,
+    "Human Development Index (2021)": 0.72,
+    "Life Expectancy at Birth (2021)": 74.2563,
+    "Expected Years of Schooling (2021)": 10.64655972
+  },
+  {
+    "ISO3": "JPN",
+    "Country": "Japan",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 19,
+    "Human Development Index (2021)": 0.925,
+    "Life Expectancy at Birth (2021)": 84.7839,
+    "Expected Years of Schooling (2021)": 15.22162588
+  },
+  {
+    "ISO3": "KAZ",
+    "Country": "Kazakhstan",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 56,
+    "Human Development Index (2021)": 0.811,
+    "Life Expectancy at Birth (2021)": 69.3622,
+    "Expected Years of Schooling (2021)": 15.76500034
+  },
+  {
+    "ISO3": "KEN",
+    "Country": "Kenya",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 152,
+    "Human Development Index (2021)": 0.575,
+    "Life Expectancy at Birth (2021)": 61.427,
+    "Expected Years of Schooling (2021)": 10.69855835
+  },
+  {
+    "ISO3": "KGZ",
+    "Country": "Kyrgyzstan",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 118,
+    "Human Development Index (2021)": 0.692,
+    "Life Expectancy at Birth (2021)": 69.9774,
+    "Expected Years of Schooling (2021)": 13.1953001
+  },
+  {
+    "ISO3": "KHM",
+    "Country": "Cambodia",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 146,
+    "Human Development Index (2021)": 0.593,
+    "Life Expectancy at Birth (2021)": 69.5835,
+    "Expected Years of Schooling (2021)": 11.46772
+  },
+  {
+    "ISO3": "KIR",
+    "Country": "Kiribati",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 136,
+    "Human Development Index (2021)": 0.624,
+    "Life Expectancy at Birth (2021)": 67.4172,
+    "Expected Years of Schooling (2021)": 11.801993
+  },
+  {
+    "ISO3": "KNA",
+    "Country": "Saint Kitts and Nevis",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 75,
+    "Human Development Index (2021)": 0.777,
+    "Life Expectancy at Birth (2021)": 71.6822,
+    "Expected Years of Schooling (2021)": 15.42769157
+  },
+  {
+    "ISO3": "KOR",
+    "Country": "South Korea",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 19,
+    "Human Development Index (2021)": 0.925,
+    "Life Expectancy at Birth (2021)": 83.6978,
+    "Expected Years of Schooling (2021)": 16.52173996
+  },
+  {
+    "ISO3": "KWT",
+    "Country": "Kuwait",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 50,
+    "Human Development Index (2021)": 0.831,
+    "Life Expectancy at Birth (2021)": 78.6729,
+    "Expected Years of Schooling (2021)": 15.32443332
+  },
+  {
+    "ISO3": "LAO",
+    "Country": "Lao",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 140,
+    "Human Development Index (2021)": 0.607,
+    "Life Expectancy at Birth (2021)": 68.0608,
+    "Expected Years of Schooling (2021)": 10.13611031
+  },
+  {
+    "ISO3": "LBN",
+    "Country": "Lebanon",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 112,
+    "Human Development Index (2021)": 0.706,
+    "Life Expectancy at Birth (2021)": 75.0472,
+    "Expected Years of Schooling (2021)": 11.28587
+  },
+  {
+    "ISO3": "LBR",
+    "Country": "Liberia",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 178,
+    "Human Development Index (2021)": 0.481,
+    "Life Expectancy at Birth (2021)": 60.7472,
+    "Expected Years of Schooling (2021)": 10.42078972
+  },
+  {
+    "ISO3": "LBY",
+    "Country": "Libya",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 104,
+    "Human Development Index (2021)": 0.718,
+    "Life Expectancy at Birth (2021)": 71.9112,
+    "Expected Years of Schooling (2021)": 12.85428
+  },
+  {
+    "ISO3": "LCA",
+    "Country": "Saint Lucia",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 106,
+    "Human Development Index (2021)": 0.715,
+    "Life Expectancy at Birth (2021)": 71.1114,
+    "Expected Years of Schooling (2021)": 12.86610985
+  },
+  {
+    "ISO3": "LIE",
+    "Country": "Liechtenstein",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 16,
+    "Human Development Index (2021)": 0.935,
+    "Life Expectancy at Birth (2021)": 83.2575,
+    "Expected Years of Schooling (2021)": 15.18157005
+  },
+  {
+    "ISO3": "LKA",
+    "Country": "Sri Lanka",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 73,
+    "Human Development Index (2021)": 0.782,
+    "Life Expectancy at Birth (2021)": 76.3991,
+    "Expected Years of Schooling (2021)": 14.13990486
+  },
+  {
+    "ISO3": "LSO",
+    "Country": "Lesotho",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 168,
+    "Human Development Index (2021)": 0.514,
+    "Life Expectancy at Birth (2021)": 53.062,
+    "Expected Years of Schooling (2021)": 12.04087801
+  },
+  {
+    "ISO3": "LTU",
+    "Country": "Lithuania",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 35,
+    "Human Development Index (2021)": 0.875,
+    "Life Expectancy at Birth (2021)": 73.7201,
+    "Expected Years of Schooling (2021)": 16.28506088
+  },
+  {
+    "ISO3": "LUX",
+    "Country": "Luxembourg",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 17,
+    "Human Development Index (2021)": 0.93,
+    "Life Expectancy at Birth (2021)": 82.6287,
+    "Expected Years of Schooling (2021)": 14.39813995
+  },
+  {
+    "ISO3": "LVA",
+    "Country": "Latvia",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 39,
+    "Human Development Index (2021)": 0.863,
+    "Life Expectancy at Birth (2021)": 73.5786,
+    "Expected Years of Schooling (2021)": 16.20252991
+  },
+  {
+    "ISO3": "MAR",
+    "Country": "Morocco",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 123,
+    "Human Development Index (2021)": 0.683,
+    "Life Expectancy at Birth (2021)": 74.0419,
+    "Expected Years of Schooling (2021)": 14.15190983
+  },
+  {
+    "ISO3": "MCO",
+    "Country": "Monaco",
+    "Human Development Groups": "",
+    "HDI Rank (2021)": null,
+    "Human Development Index (2021)": null,
+    "Life Expectancy at Birth (2021)": 85.9463,
+    "Expected Years of Schooling (2021)": null
+  },
+  {
+    "ISO3": "MDA",
+    "Country": "Moldova",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 80,
+    "Human Development Index (2021)": 0.767,
+    "Life Expectancy at Birth (2021)": 68.8459,
+    "Expected Years of Schooling (2021)": 14.43299961
+  },
+  {
+    "ISO3": "MDG",
+    "Country": "Madagascar",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 173,
+    "Human Development Index (2021)": 0.501,
+    "Life Expectancy at Birth (2021)": 64.4853,
+    "Expected Years of Schooling (2021)": 10.13499142
+  },
+  {
+    "ISO3": "MDV",
+    "Country": "Maldives",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 90,
+    "Human Development Index (2021)": 0.747,
+    "Life Expectancy at Birth (2021)": 79.9182,
+    "Expected Years of Schooling (2021)": 12.63560963
+  },
+  {
+    "ISO3": "MEX",
+    "Country": "Mexico",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 86,
+    "Human Development Index (2021)": 0.758,
+    "Life Expectancy at Birth (2021)": 70.2127,
+    "Expected Years of Schooling (2021)": 14.86443996
+  },
+  {
+    "ISO3": "MHL",
+    "Country": "Marshall Islands",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 131,
+    "Human Development Index (2021)": 0.639,
+    "Life Expectancy at Birth (2021)": 65.2688,
+    "Expected Years of Schooling (2021)": 10.2393198
+  },
+  {
+    "ISO3": "MKD",
+    "Country": "North Macedonia",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 78,
+    "Human Development Index (2021)": 0.77,
+    "Life Expectancy at Birth (2021)": 73.8415,
+    "Expected Years of Schooling (2021)": 13.62443234
+  },
+  {
+    "ISO3": "MLI",
+    "Country": "Mali",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 186,
+    "Human Development Index (2021)": 0.428,
+    "Life Expectancy at Birth (2021)": 58.9414,
+    "Expected Years of Schooling (2021)": 7.423037617
+  },
+  {
+    "ISO3": "MLT",
+    "Country": "Malta",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 23,
+    "Human Development Index (2021)": 0.918,
+    "Life Expectancy at Birth (2021)": 83.7769,
+    "Expected Years of Schooling (2021)": 16.83856964
+  },
+  {
+    "ISO3": "MMR",
+    "Country": "Myanmar",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 149,
+    "Human Development Index (2021)": 0.585,
+    "Life Expectancy at Birth (2021)": 65.6716,
+    "Expected Years of Schooling (2021)": 10.90913752
+  },
+  {
+    "ISO3": "MNE",
+    "Country": "Montenegro",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 49,
+    "Human Development Index (2021)": 0.832,
+    "Life Expectancy at Birth (2021)": 76.3426,
+    "Expected Years of Schooling (2021)": 15.08160973
+  },
+  {
+    "ISO3": "MNG",
+    "Country": "Mongolia",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 96,
+    "Human Development Index (2021)": 0.739,
+    "Life Expectancy at Birth (2021)": 70.9754,
+    "Expected Years of Schooling (2021)": 14.98034954
+  },
+  {
+    "ISO3": "MOZ",
+    "Country": "Mozambique",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 185,
+    "Human Development Index (2021)": 0.446,
+    "Life Expectancy at Birth (2021)": 59.3247,
+    "Expected Years of Schooling (2021)": 10.2191516
+  },
+  {
+    "ISO3": "MRT",
+    "Country": "Mauritania",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 158,
+    "Human Development Index (2021)": 0.556,
+    "Life Expectancy at Birth (2021)": 64.3636,
+    "Expected Years of Schooling (2021)": 9.376159668
+  },
+  {
+    "ISO3": "MUS",
+    "Country": "Mauritius",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 63,
+    "Human Development Index (2021)": 0.802,
+    "Life Expectancy at Birth (2021)": 73.5552,
+    "Expected Years of Schooling (2021)": 15.17352977
+  },
+  {
+    "ISO3": "MWI",
+    "Country": "Malawi",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 169,
+    "Human Development Index (2021)": 0.512,
+    "Life Expectancy at Birth (2021)": 62.9044,
+    "Expected Years of Schooling (2021)": 12.67898523
+  },
+  {
+    "ISO3": "MYS",
+    "Country": "Malaysia",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 62,
+    "Human Development Index (2021)": 0.803,
+    "Life Expectancy at Birth (2021)": 74.8839,
+    "Expected Years of Schooling (2021)": 13.34304047
+  },
+  {
+    "ISO3": "NAM",
+    "Country": "Namibia",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 139,
+    "Human Development Index (2021)": 0.615,
+    "Life Expectancy at Birth (2021)": 59.269,
+    "Expected Years of Schooling (2021)": 11.92720692
+  },
+  {
+    "ISO3": "NER",
+    "Country": "Niger",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 189,
+    "Human Development Index (2021)": 0.4,
+    "Life Expectancy at Birth (2021)": 61.5763,
+    "Expected Years of Schooling (2021)": 6.957111988
+  },
+  {
+    "ISO3": "NGA",
+    "Country": "Nigeria",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 163,
+    "Human Development Index (2021)": 0.535,
+    "Life Expectancy at Birth (2021)": 52.676,
+    "Expected Years of Schooling (2021)": 10.12758388
+  },
+  {
+    "ISO3": "NIC",
+    "Country": "Nicaragua",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 126,
+    "Human Development Index (2021)": 0.667,
+    "Life Expectancy at Birth (2021)": 73.8368,
+    "Expected Years of Schooling (2021)": 12.64135783
+  },
+  {
+    "ISO3": "NLD",
+    "Country": "Netherlands",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 10,
+    "Human Development Index (2021)": 0.941,
+    "Life Expectancy at Birth (2021)": 81.6873,
+    "Expected Years of Schooling (2021)": 18.69316522
+  },
+  {
+    "ISO3": "NOR",
+    "Country": "Norway",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 2,
+    "Human Development Index (2021)": 0.961,
+    "Life Expectancy at Birth (2021)": 83.2339,
+    "Expected Years of Schooling (2021)": 18.18519974
+  },
+  {
+    "ISO3": "NPL",
+    "Country": "Nepal",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 143,
+    "Human Development Index (2021)": 0.602,
+    "Life Expectancy at Birth (2021)": 68.4495,
+    "Expected Years of Schooling (2021)": 12.88694954
+  },
+  {
+    "ISO3": "NRU",
+    "Country": "Nauru",
+    "Human Development Groups": "",
+    "HDI Rank (2021)": null,
+    "Human Development Index (2021)": null,
+    "Life Expectancy at Birth (2021)": 63.617,
+    "Expected Years of Schooling (2021)": 11.69042029
+  },
+  {
+    "ISO3": "NZL",
+    "Country": "New Zealand",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 13,
+    "Human Development Index (2021)": 0.937,
+    "Life Expectancy at Birth (2021)": 82.4513,
+    "Expected Years of Schooling (2021)": 20.28388977
+  },
+  {
+    "ISO3": "OMN",
+    "Country": "Oman",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 54,
+    "Human Development Index (2021)": 0.816,
+    "Life Expectancy at Birth (2021)": 72.5406,
+    "Expected Years of Schooling (2021)": 14.57349014
+  },
+  {
+    "ISO3": "PAK",
+    "Country": "Pakistan",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 161,
+    "Human Development Index (2021)": 0.544,
+    "Life Expectancy at Birth (2021)": 66.0979,
+    "Expected Years of Schooling (2021)": 8.658349991
+  },
+  {
+    "ISO3": "PAN",
+    "Country": "Panama",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 61,
+    "Human Development Index (2021)": 0.805,
+    "Life Expectancy at Birth (2021)": 76.2233,
+    "Expected Years of Schooling (2021)": 13.05787868
+  },
+  {
+    "ISO3": "PER",
+    "Country": "Peru",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 84,
+    "Human Development Index (2021)": 0.762,
+    "Life Expectancy at Birth (2021)": 72.3769,
+    "Expected Years of Schooling (2021)": 15.38773354
+  },
+  {
+    "ISO3": "PHL",
+    "Country": "Philippines",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 116,
+    "Human Development Index (2021)": 0.699,
+    "Life Expectancy at Birth (2021)": 69.2664,
+    "Expected Years of Schooling (2021)": 13.12656975
+  },
+  {
+    "ISO3": "PLW",
+    "Country": "Palau",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 80,
+    "Human Development Index (2021)": 0.767,
+    "Life Expectancy at Birth (2021)": 66.0204,
+    "Expected Years of Schooling (2021)": 15.78432
+  },
+  {
+    "ISO3": "PNG",
+    "Country": "Papua New Guinea",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 156,
+    "Human Development Index (2021)": 0.558,
+    "Life Expectancy at Birth (2021)": 65.3506,
+    "Expected Years of Schooling (2021)": 10.36077074
+  },
+  {
+    "ISO3": "POL",
+    "Country": "Poland",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 34,
+    "Human Development Index (2021)": 0.876,
+    "Life Expectancy at Birth (2021)": 76.4572,
+    "Expected Years of Schooling (2021)": 16.0271492
+  },
+  {
+    "ISO3": "PRK",
+    "Country": "North Korea",
+    "Human Development Groups": "",
+    "HDI Rank (2021)": null,
+    "Human Development Index (2021)": null,
+    "Life Expectancy at Birth (2021)": 73.2845,
+    "Expected Years of Schooling (2021)": 10.78317
+  },
+  {
+    "ISO3": "PRT",
+    "Country": "Portugal",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 38,
+    "Human Development Index (2021)": 0.866,
+    "Life Expectancy at Birth (2021)": 81.0443,
+    "Expected Years of Schooling (2021)": 16.87122917
+  },
+  {
+    "ISO3": "PRY",
+    "Country": "Paraguay",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 105,
+    "Human Development Index (2021)": 0.717,
+    "Life Expectancy at Birth (2021)": 70.2617,
+    "Expected Years of Schooling (2021)": 12.98799113
+  },
+  {
+    "ISO3": "PSE",
+    "Country": "Palestine, State of",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 106,
+    "Human Development Index (2021)": 0.715,
+    "Life Expectancy at Birth (2021)": 73.4727,
+    "Expected Years of Schooling (2021)": 13.35801029
+  },
+  {
+    "ISO3": "QAT",
+    "Country": "Qatar",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 42,
+    "Human Development Index (2021)": 0.855,
+    "Life Expectancy at Birth (2021)": 79.2716,
+    "Expected Years of Schooling (2021)": 12.63722038
+  },
+  {
+    "ISO3": "ROU",
+    "Country": "Romania",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 53,
+    "Human Development Index (2021)": 0.821,
+    "Life Expectancy at Birth (2021)": 74.1847,
+    "Expected Years of Schooling (2021)": 14.22990036
+  },
+  {
+    "ISO3": "RUS",
+    "Country": "Russia",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 52,
+    "Human Development Index (2021)": 0.822,
+    "Life Expectancy at Birth (2021)": 69.419,
+    "Expected Years of Schooling (2021)": 15.76636982
+  },
+  {
+    "ISO3": "RWA",
+    "Country": "Rwanda",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 165,
+    "Human Development Index (2021)": 0.534,
+    "Life Expectancy at Birth (2021)": 66.0722,
+    "Expected Years of Schooling (2021)": 11.23097038
+  },
+  {
+    "ISO3": "SAU",
+    "Country": "Saudi Arabia",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 35,
+    "Human Development Index (2021)": 0.875,
+    "Life Expectancy at Birth (2021)": 76.936,
+    "Expected Years of Schooling (2021)": 16.13549042
+  },
+  {
+    "ISO3": "SDN",
+    "Country": "Sudan",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 172,
+    "Human Development Index (2021)": 0.508,
+    "Life Expectancy at Birth (2021)": 65.2667,
+    "Expected Years of Schooling (2021)": 7.945187858
+  },
+  {
+    "ISO3": "SEN",
+    "Country": "Senegal",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 170,
+    "Human Development Index (2021)": 0.511,
+    "Life Expectancy at Birth (2021)": 67.0926,
+    "Expected Years of Schooling (2021)": 8.963749886
+  },
+  {
+    "ISO3": "SGP",
+    "Country": "Singapore",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 12,
+    "Human Development Index (2021)": 0.939,
+    "Life Expectancy at Birth (2021)": 82.7545,
+    "Expected Years of Schooling (2021)": 16.5243206
+  },
+  {
+    "ISO3": "SLB",
+    "Country": "Solomon Islands",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 155,
+    "Human Development Index (2021)": 0.564,
+    "Life Expectancy at Birth (2021)": 70.3477,
+    "Expected Years of Schooling (2021)": 10.32869027
+  },
+  {
+    "ISO3": "SLE",
+    "Country": "Sierra Leone",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 181,
+    "Human Development Index (2021)": 0.477,
+    "Life Expectancy at Birth (2021)": 60.0624,
+    "Expected Years of Schooling (2021)": 9.57339109
+  },
+  {
+    "ISO3": "SLV",
+    "Country": "El Salvador",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 125,
+    "Human Development Index (2021)": 0.675,
+    "Life Expectancy at Birth (2021)": 70.7479,
+    "Expected Years of Schooling (2021)": 12.67134767
+  },
+  {
+    "ISO3": "SMR",
+    "Country": "San Marino",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 44,
+    "Human Development Index (2021)": 0.853,
+    "Life Expectancy at Birth (2021)": 80.8786,
+    "Expected Years of Schooling (2021)": 12.26613998
+  },
+  {
+    "ISO3": "SOM",
+    "Country": "Somalia",
+    "Human Development Groups": "",
+    "HDI Rank (2021)": null,
+    "Human Development Index (2021)": null,
+    "Life Expectancy at Birth (2021)": 55.2803,
+    "Expected Years of Schooling (2021)": null
+  },
+  {
+    "ISO3": "SRB",
+    "Country": "Serbia",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 63,
+    "Human Development Index (2021)": 0.802,
+    "Life Expectancy at Birth (2021)": 74.1923,
+    "Expected Years of Schooling (2021)": 14.40009022
+  },
+  {
+    "ISO3": "SSD",
+    "Country": "South Sudan",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 191,
+    "Human Development Index (2021)": 0.385,
+    "Life Expectancy at Birth (2021)": 54.9752,
+    "Expected Years of Schooling (2021)": 5.54251
+  },
+  {
+    "ISO3": "STP",
+    "Country": "Sao Tome and Principe",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 138,
+    "Human Development Index (2021)": 0.618,
+    "Life Expectancy at Birth (2021)": 67.5912,
+    "Expected Years of Schooling (2021)": 13.36538506
+  },
+  {
+    "ISO3": "SUR",
+    "Country": "Suriname",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 99,
+    "Human Development Index (2021)": 0.73,
+    "Life Expectancy at Birth (2021)": 70.2743,
+    "Expected Years of Schooling (2021)": 13.03564357
+  },
+  {
+    "ISO3": "SVK",
+    "Country": "Slovakia",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 45,
+    "Human Development Index (2021)": 0.848,
+    "Life Expectancy at Birth (2021)": 74.9101,
+    "Expected Years of Schooling (2021)": 14.51303959
+  },
+  {
+    "ISO3": "SVN",
+    "Country": "Slovenia",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 23,
+    "Human Development Index (2021)": 0.918,
+    "Life Expectancy at Birth (2021)": 80.6904,
+    "Expected Years of Schooling (2021)": 17.65492058
+  },
+  {
+    "ISO3": "SWE",
+    "Country": "Sweden",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 7,
+    "Human Development Index (2021)": 0.947,
+    "Life Expectancy at Birth (2021)": 82.9833,
+    "Expected Years of Schooling (2021)": 19.41852951
+  },
+  {
+    "ISO3": "SWZ",
+    "Country": "Eswatini",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 144,
+    "Human Development Index (2021)": 0.597,
+    "Life Expectancy at Birth (2021)": 57.0657,
+    "Expected Years of Schooling (2021)": 13.74434586
+  },
+  {
+    "ISO3": "SYC",
+    "Country": "Seychelles",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 72,
+    "Human Development Index (2021)": 0.785,
+    "Life Expectancy at Birth (2021)": 71.2945,
+    "Expected Years of Schooling (2021)": 13.94161034
+  },
+  {
+    "ISO3": "SYR",
+    "Country": "Syrian Arab Republic",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 150,
+    "Human Development Index (2021)": 0.577,
+    "Life Expectancy at Birth (2021)": 72.0627,
+    "Expected Years of Schooling (2021)": 9.164219856
+  },
+  {
+    "ISO3": "TCD",
+    "Country": "Chad",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 190,
+    "Human Development Index (2021)": 0.394,
+    "Life Expectancy at Birth (2021)": 52.5254,
+    "Expected Years of Schooling (2021)": 8.035914334
+  },
+  {
+    "ISO3": "TGO",
+    "Country": "Togo",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 162,
+    "Human Development Index (2021)": 0.539,
+    "Life Expectancy at Birth (2021)": 61.6194,
+    "Expected Years of Schooling (2021)": 12.95049378
+  },
+  {
+    "ISO3": "THA",
+    "Country": "Thailand",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 66,
+    "Human Development Index (2021)": 0.8,
+    "Life Expectancy at Birth (2021)": 78.7154,
+    "Expected Years of Schooling (2021)": 15.88221913
+  },
+  {
+    "ISO3": "TJK",
+    "Country": "Tajikistan",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 122,
+    "Human Development Index (2021)": 0.685,
+    "Life Expectancy at Birth (2021)": 71.5942,
+    "Expected Years of Schooling (2021)": 11.65303618
+  },
+  {
+    "ISO3": "TKM",
+    "Country": "Turkmenistan",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 91,
+    "Human Development Index (2021)": 0.745,
+    "Life Expectancy at Birth (2021)": 69.2644,
+    "Expected Years of Schooling (2021)": 13.21039963
+  },
+  {
+    "ISO3": "TLS",
+    "Country": "Timor-Leste",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 140,
+    "Human Development Index (2021)": 0.607,
+    "Life Expectancy at Birth (2021)": 67.7369,
+    "Expected Years of Schooling (2021)": 12.616098
+  },
+  {
+    "ISO3": "TON",
+    "Country": "Tonga",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 91,
+    "Human Development Index (2021)": 0.745,
+    "Life Expectancy at Birth (2021)": 70.9857,
+    "Expected Years of Schooling (2021)": 16.04857063
+  },
+  {
+    "ISO3": "TTO",
+    "Country": "Trinidad and Tobago",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 57,
+    "Human Development Index (2021)": 0.81,
+    "Life Expectancy at Birth (2021)": 72.9709,
+    "Expected Years of Schooling (2021)": 14.53545292
+  },
+  {
+    "ISO3": "TUN",
+    "Country": "Tunisia",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 97,
+    "Human Development Index (2021)": 0.731,
+    "Life Expectancy at Birth (2021)": 73.7719,
+    "Expected Years of Schooling (2021)": 15.42538224
+  },
+  {
+    "ISO3": "TUR",
+    "Country": "Turkey",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 48,
+    "Human Development Index (2021)": 0.838,
+    "Life Expectancy at Birth (2021)": 76.0324,
+    "Expected Years of Schooling (2021)": 18.3382206
+  },
+  {
+    "ISO3": "TUV",
+    "Country": "Tuvalu",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 130,
+    "Human Development Index (2021)": 0.641,
+    "Life Expectancy at Birth (2021)": 64.5466,
+    "Expected Years of Schooling (2021)": 9.40443
+  },
+  {
+    "ISO3": "TZA",
+    "Country": "United Republic of Tanzania",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 160,
+    "Human Development Index (2021)": 0.549,
+    "Life Expectancy at Birth (2021)": 66.2007,
+    "Expected Years of Schooling (2021)": 9.221489906
+  },
+  {
+    "ISO3": "UGA",
+    "Country": "Uganda",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 166,
+    "Human Development Index (2021)": 0.525,
+    "Life Expectancy at Birth (2021)": 62.7048,
+    "Expected Years of Schooling (2021)": 10.14986994
+  },
+  {
+    "ISO3": "UKR",
+    "Country": "Ukraine",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 77,
+    "Human Development Index (2021)": 0.773,
+    "Life Expectancy at Birth (2021)": 71.624,
+    "Expected Years of Schooling (2021)": 14.95656854
+  },
+  {
+    "ISO3": "URY",
+    "Country": "Uruguay",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 58,
+    "Human Development Index (2021)": 0.809,
+    "Life Expectancy at Birth (2021)": 75.4356,
+    "Expected Years of Schooling (2021)": 16.83259964
+  },
+  {
+    "ISO3": "USA",
+    "Country": "USA",
+    "Human Development Groups": "Very High",
+    "HDI Rank (2021)": 21,
+    "Human Development Index (2021)": 0.921,
+    "Life Expectancy at Birth (2021)": 77.1982,
+    "Expected Years of Schooling (2021)": 16.28097916
+  },
+  {
+    "ISO3": "UZB",
+    "Country": "Uzbekistan",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 101,
+    "Human Development Index (2021)": 0.727,
+    "Life Expectancy at Birth (2021)": 70.8616,
+    "Expected Years of Schooling (2021)": 12.47714043
+  },
+  {
+    "ISO3": "VCT",
+    "Country": "Saint Vincent and the Grenadines",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 89,
+    "Human Development Index (2021)": 0.751,
+    "Life Expectancy at Birth (2021)": 69.6291,
+    "Expected Years of Schooling (2021)": 14.67220567
+  },
+  {
+    "ISO3": "VEN",
+    "Country": "Venezuela",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 120,
+    "Human Development Index (2021)": 0.691,
+    "Life Expectancy at Birth (2021)": 70.5536,
+    "Expected Years of Schooling (2021)": 12.81608
+  },
+  {
+    "ISO3": "VNM",
+    "Country": "Viet Nam",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 115,
+    "Human Development Index (2021)": 0.703,
+    "Life Expectancy at Birth (2021)": 73.6181,
+    "Expected Years of Schooling (2021)": 12.9519325
+  },
+  {
+    "ISO3": "VUT",
+    "Country": "Vanuatu",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 140,
+    "Human Development Index (2021)": 0.607,
+    "Life Expectancy at Birth (2021)": 70.449,
+    "Expected Years of Schooling (2021)": 11.53531503
+  },
+  {
+    "ISO3": "WSM",
+    "Country": "Samoa",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 111,
+    "Human Development Index (2021)": 0.707,
+    "Life Expectancy at Birth (2021)": 72.7675,
+    "Expected Years of Schooling (2021)": 12.41885948
+  },
+  {
+    "ISO3": "YEM",
+    "Country": "Yemen",
+    "Human Development Groups": "Low",
+    "HDI Rank (2021)": 183,
+    "Human Development Index (2021)": 0.455,
+    "Life Expectancy at Birth (2021)": 63.7534,
+    "Expected Years of Schooling (2021)": 9.09871006
+  },
+  {
+    "ISO3": "ZAF",
+    "Country": "South Africa",
+    "Human Development Groups": "High",
+    "HDI Rank (2021)": 109,
+    "Human Development Index (2021)": 0.713,
+    "Life Expectancy at Birth (2021)": 62.341,
+    "Expected Years of Schooling (2021)": 13.64371014
+  },
+  {
+    "ISO3": "ZMB",
+    "Country": "Zambia",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 154,
+    "Human Development Index (2021)": 0.565,
+    "Life Expectancy at Birth (2021)": 61.2234,
+    "Expected Years of Schooling (2021)": 10.92876021
+  },
+  {
+    "ISO3": "ZWE",
+    "Country": "Zimbabwe",
+    "Human Development Groups": "Medium",
+    "HDI Rank (2021)": 146,
+    "Human Development Index (2021)": 0.593,
+    "Life Expectancy at Birth (2021)": 59.2531,
+    "Expected Years of Schooling (2021)": 12.11096904
+  }
+]

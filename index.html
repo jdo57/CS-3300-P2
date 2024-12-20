@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <style>
+      .tooltip {
+        position: absolute;
+        text-align: center;
+        width: auto;
+        padding: 4px;
+        font: 12px sans-serif;
+        background: lightsteelblue;
+        border: 0px;
+        border-radius: 8px;
+        pointer-events: none;
+      }
+      .country:hover {
+        cursor: pointer;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h3>Figure 1. HDI Index for World in 2021</h3>
+    <div id="map" style="width: 900px; height: 600px"></div>
+
+    <h3>Figure 2. GDP for World from 2018-2020</h3>
+    <div id="map2" style="width: 900px; height: 600px"></div>
+
+    <script>
+      async function drawMap() {
+        const hdiData = await fetch("hdi.json").then((response) =>
+          response.json()
+        );
+        const worldData = await d3.json(
+          "https://enjalot.github.io/wwsd/data/world/world-110m.geojson"
+        );
+
+        const width = 900,
+          height = 600;
+
+        const projection = d3
+          .geoNaturalEarth1()
+          .scale(width / 2 / Math.PI)
+          .translate([width / 2, height / 2]);
+        const path = d3.geoPath().projection(projection);
+
+        const svg = d3
+          .select("#map")
+          .append("svg")
+          .attr("width", width)
+          .attr("height", height);
+
+        const colorScale = d3
+          .scaleOrdinal()
+          .domain(["Low", "Medium", "High", "Very High"])
+          .range(["#1984c5", "#63bff0", "#e1a692", "#c23728"]);
+
+        const tooltip = d3
+          .select("body")
+          .append("div")
+          .attr("class", "tooltip")
+          .style("opacity", 0);
+
+        svg
+          .selectAll("path")
+          .data(worldData.features)
+          .enter()
+          .append("path")
+          .attr("d", path)
+          .attr("class", "country")
+          .attr("fill", (d) => {
+            const country = hdiData.find(
+              (h) => h.Country === d.properties.name
+            );
+            return country
+              ? colorScale(country["Human Development Groups"])
+              : "#f5f5f5";
+          })
+          .on("mouseover", (d) => {
+            tooltip.transition().duration(200).style("opacity", 0.9);
+            const country = hdiData.find(
+              (h) => h.Country === d.properties.name
+            );
+            if (country) {
+              tooltip
+                .html(
+                  `<strong>${country.Country}</strong><br>HDI Rank (2021): ${country["HDI Rank (2021)"]}<br>Human Development Index (2021): ${country["Human Development Index (2021)"]}<br>Life Expectancy at Birth (2021): ${country["Life Expectancy at Birth (2021)"]}<br>Expected Years of Schooling (2021): ${country["Expected Years of Schooling (2021)"]}`
+                )
+                .style("left", d3.event.pageX + "px")
+                .style("top", d3.event.pageY - 28 + "px");
+            }
+          })
+          .on("mouseout", (d) => {
+            tooltip.transition().duration(500).style("opacity", 0);
+          });
+
+        const legend = svg
+          .append("g")
+          .attr("class", "legend")
+          .attr("transform", `translate(${width - 120},${height - 100})`);
+
+        legend
+          .selectAll("rect")
+          .data(colorScale.domain())
+          .enter()
+          .append("rect")
+          .attr("x", 0)
+          .attr("y", (d, i) => i * 20)
+          .attr("width", 18)
+          .attr("height", 18)
+          .style("fill", colorScale);
+
+        legend
+          .selectAll("text")
+          .data(colorScale.domain())
+          .enter()
+          .append("text")
+          .attr("x", 24)
+          .attr("y", (d, i) => i * 20 + 13)
+          .text((d) => d);
+      }
+
+      drawMap();
+
+      async function drawMap2() {
+        const gdpData = await fetch("gdp.json").then((response) =>
+          response.json()
+        );
+        const worldData = await d3.json(
+          "https://enjalot.github.io/wwsd/data/world/world-110m.geojson"
+        );
+
+        const width = 900,
+          height = 600;
+
+        const projection = d3
+          .geoNaturalEarth1()
+          .scale(width / 2 / Math.PI)
+          .translate([width / 2, height / 2 + 100]);
+        const path = d3.geoPath().projection(projection);
+
+        const svg = d3
+          .select("#map2")
+          .append("svg")
+          .attr("width", width)
+          .attr("height", height + 100);
+
+        const colorScale = d3
+          .scaleOrdinal()
+          .domain(["Low", "Medium", "High", "Very High"])
+          .range(["#1984c5", "#63bff0", "#e1a692", "#c23728"]);
+
+        const tooltip = d3
+          .select("body")
+          .append("div")
+          .attr("class", "tooltip")
+          .style("opacity", 0);
+
+        svg
+          .selectAll("path")
+          .data(worldData.features)
+          .enter()
+          .append("path")
+          .attr("d", path)
+          .attr("class", "country")
+          .attr("fill", (d) => {
+            const country = gdpData.find(
+              (h) => h["Country Name"] === d.properties.name
+            );
+            return country ? colorScale(country["2020"]) : "#f5f5f5";
+          })
+          .on("mouseover", (d) => {
+            tooltip.transition().duration(200).style("opacity", 0.9);
+            const country = gdpData.find(
+              (h) => h["Country Name"] === d.properties.name
+            );
+            if (country) {
+              tooltip
+                .html(
+                  `<strong>${country["Country Name"]}</strong><br>Code: ${country["Code"]}<br>GDP (2018): ${country["2018"]}<br>GDP (2019): ${country["2019"]}<br>GDP (2020)): ${country["2020"]}`
+                )
+                .style("left", d3.event.pageX + "px")
+                .style("top", d3.event.pageY - 28 + "px");
+            }
+          })
+          .on("mouseout", (d) => {
+            tooltip.transition().duration(500).style("opacity", 0);
+          });
+
+        const initialY = 740;
+
+        const legend = svg
+          .append("g")
+          .attr("class", "legend")
+          .attr("transform", `translate(${width - 120},${height - 720})`);
+
+        legend
+          .selectAll("rect")
+          .data(colorScale.domain())
+          .enter()
+          .append("rect")
+          .attr("x", 0)
+          .attr("y", (d, i) => initialY + i * 20)
+          .attr("width", 18)
+          .attr("height", 18)
+          .style("fill", colorScale);
+
+        legend
+          .selectAll("text")
+          .data(colorScale.domain())
+          .enter()
+          .append("text")
+          .attr("x", 24)
+          .attr("y", (d, i) => initialY + (i * 20 + 13))
+          .text((d) => d);
+      }
+
+      drawMap2();
+    </script>
+  </body>
+</html>
